@@ -1,12 +1,14 @@
 # Reposit-rio-da-Yas
-Olá, sou Yasmin Arianne! 👋 Sou uma profissional em transição de carreira, movida pela paixão por soluções inteligentes, em busca de oportunidades para aplicar minha dedicação e meu rápido aprendizado em desafios na área de tecnologia, contribuindo para a construção de produtos incríveis.
+Olá, sou Yasmin ! 👋 
+
+Sou uma profissional em transição de carreira, movida pela paixão por soluções inteligentes, em busca de oportunidades para aplicar minha dedicação e meu rápido aprendizado em desafios na área de tecnologia, contribuindo para a construção de produtos incríveis.
 
 Atualmente, estou cursando Gestão da Tecnologia da Informação e aprofundando meus conhecimentos com foco em Tester de Softwares e Quality Assurance (QA). Tenho grande interesse por:
 
-Metodologias Ágeis (Scrum, Kanban).
+🔄 Metodologias Ágeis: Scrum e Kanban para gestão de projetos dinâmicos.
 
-Testes de Software e Automação de Tarefas.
+🤖 Testes e Automação: Garantia de qualidade em software e automação de tarefas.
 
-Modelagem e Gerenciamento de Banco de Dados.
+🗄️ Banco de Dados: Modelagem e gerenciamento de dados relacionais.
 
-Processos que garantem a entrega de um software de alta qualidade e com foco no resultado.
+🎯 Processos de Qualidade: Foco no resultado para entregar um software de excelência.
